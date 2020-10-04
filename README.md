@@ -1,1 +1,1 @@
-# Mini apprentissage du bash ( mini début ) 
+# Mini apprentissage du shell  ( mini début ) 
