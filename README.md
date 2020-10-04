@@ -1,1 +1,1 @@
-# start-bash
+# Mini apprentissage du bash ( mini début ) 
